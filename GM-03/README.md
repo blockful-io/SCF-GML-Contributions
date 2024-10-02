@@ -6,7 +6,7 @@ Category: Reputation
 Authors: Leonardo Vieira, Daniela Zschaber
 Discussions: https://github.com/BlockScience/SCF-GML-Contributions/discussions/11
 Created: 2024-09-11
-License: tbd
+License: MIT
 ---
 
 # Title
@@ -72,6 +72,8 @@ Add Requirements here. Requirements are concrete needs and constraints that the 
 This reputation aggregator also has an EVM version that aims to be cross-organization, providing seamless interoperability across various chains and different DAOs or/and organizations.
 
 The Trustful contract created initially for ZuVillage Georgia allows users to receive and manage attestations (using EAS), contributing to a verifiable reputation system. The contract integrates with various on-chain and off-chain data sources to ensure accurate and trustworthy reputation metrics.
+
+The implementation of the Trustful contract is available on the [ZuVillage](https://github.com/blockful-io/trustful-zuzalu) repository.
 
 **Key Features**
 * Reputation Aggregation: Collects and aggregates reputation data from multiple sources.
